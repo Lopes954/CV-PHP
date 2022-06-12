@@ -1,0 +1,31 @@
+#btninscription{
+    color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+#comp,#debut,#fin,#lieu,#poste,#descriptif,#annee,#nom,#prenom,#email,#photo,#adresse,#ville,#codepostal,#pays,#numero,#age,#apropos,#emploi,#mot_de_passe{
+    
+    margin-bottom: 10px;
+    
+}
+#inscri{
+    text-align: center;
+}
+body{
+    /* background: rgb(66, 64, 63); */
+    background: url(../../frontend/asset/image/bg.jpg);
+}
+#leftt1,#leftt3{
+    margin-top: 10px;
+}
+#container1{
+    text-align: center;
+}
+.ajout{
+    color: white;
+    text-decoration: none;
+}
+#dash1{
+    color: white;
+    text-decoration: none;
+
+}
